@@ -1,5 +1,7 @@
 ## Amazon-Product-Review-Analysis
  This project analyzes Amazon product data to generate insights that can guide sellers on product improvements, pricing, discounts, and customer engagement.
+ ## Project Topic
+ Amazon-Product-Review-Analysis
 ##  Project Overview
 
 - **Role:** Junior Data Analyst
@@ -8,7 +10,7 @@
 - **Tools Used:** Microsoft Excel (Pivot Tables, Formulas, Charts)
 
 ## Data Source
-- **Amazon case study.xlsx**
+The primary source of data use here is Amazon case study.xlsx and this is an open source data that can be downloaded from LMS
 
 ##  Dataset Description
 The dataset includes:
@@ -86,3 +88,7 @@ The Excel dashboard includes:
 - Ratings tend to cluster around specific discount levels.
 - A small set of products drive high engagement via reviews.
 - Potential revenue varies strongly by category.
+
+  ##  Files Included
+
+- **Amazon case study.xlsx** → Cleaned data, pivot tables, and dashboard.
